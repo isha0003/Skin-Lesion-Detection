@@ -17,5 +17,4 @@ cd Skin-Lesion-Detection
 - We have analyzed the classification accuracy of the Machine Learning algorithms and Convolutional Neural Network and CNN architechture MobileNet. 
 - The proposed work helps early identification of seven classes of skin disease and can be validated and treated appropriately by medical practitioners.
 
-# Pushing Changes
-- Fork or make a new branch. Create a pull request to main.
+
