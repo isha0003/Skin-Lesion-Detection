@@ -5,8 +5,7 @@ https://github.com/isha0003/Skin-Lesion-Detection.git
 ```
 git clone 
 cd Skin-Lesion-Detection 
-npm i
-npm run dev
+
 ```
 
 # Notes:
