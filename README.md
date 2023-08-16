@@ -3,8 +3,8 @@
 To develop locally run,
 https://github.com/isha0003/Skin-Lesion-Detection.git
 ```
-git clone 
-cd Skin-Lesion-Detection 
+git clone https://github.com/isha0003/Skin-Lesion-Detection.git
+
 
 ```
 
